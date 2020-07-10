@@ -7,7 +7,7 @@ When I'm not slinging code as a test-bitten script junky, I'm either shooting an
 * I've written several software books including [Hacking with Spring Boot 2.3: Reactive Edition](https://www.amazon.com/dp/B086722L4L).
 * I also began dabbling in the realm of speculative fiction with [Darklight](https://www.amazon.com/Darklight-Coming-Age-Fantasy-Book-ebook/dp/B07C99CNS8).
 
-I also like interacting with my peeps at the Nashville Java User Group.
+I love interacting with my peeps at the Nashville Java User Group.
 
 * Check out my Spring Boot videos at https://YouTube.com/GregTurnquist.
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
