@@ -8,6 +8,6 @@ I also like playing pinball and interacting with my peeps at the Nashville Java 
 * Enjoy my Spring Boot videos at https://YouTube.com/GregTurnquist.
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
-Please enjoy this video and get a glimpse of the daily life of a Spring developer:
+Please enjoy this video and get a glimpse of the daily life of a Spring developer!
 
 [![A Day in the Life of a Spring Developer](https://img.youtube.com/vi/eBWm1l1AZF8/0.jpg)](https://www.youtube.com/watch?v=eBWm1l1AZF8)
