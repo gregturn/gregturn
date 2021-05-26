@@ -9,7 +9,7 @@ When I'm not slinging code as a test-bitten script junky, I'm either shooting an
 
 I love interacting with my peeps at the Nashville Java User Group.
 
-* Check out my Spring Boot videos at https://YouTube.com/GregTurnquist.
+* Check out my Spring Boot videos at https://YouTube.com/SpringBootLearning.
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
 Please enjoy this video and get a glimpse of the daily life of a Spring developer!
