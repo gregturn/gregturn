@@ -1,6 +1,6 @@
 Howdy!
 
-I work on the Spring team.
+I used to on the Spring team and the lead for Spring Data JPA and Spring Web Services.
 
 When I'm not slinging code as a test-bitten script junky, I'm either shooting another [YouTube video](https://youtube.com/@SpringBootLearning) or playing pinball.
 
@@ -8,7 +8,7 @@ When I'm not slinging code as a test-bitten script junky, I'm either shooting an
 * I also began dabbling in the realm of speculative fiction with [Darklight](https://www.amazon.com/Darklight-Coming-Age-Fantasy-Book-ebook/dp/B07C99CNS8).
 
 * Check out my Spring Boot videos at https://YouTube.com/@SpringBootLearning.
-* Feel free to chat with me on Twitter [@springbootlearn](https://twitter.com/springbootlearn).
+* Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
 Please enjoy this video and get a glimpse of the daily life of a Spring developer!
 
