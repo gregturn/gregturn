@@ -13,3 +13,7 @@ I've built mission critical system and battled midnight failures. I've released 
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
 I'm open to work opportunities. Feel free to contact me at https://www.linkedin.com/in/greg-l-turnquist. 
+
+In the meantime, feel free to enjoy this video!
+
+[![SECRETS to FIX BROKEN code](https://img.youtube.com/vi/pgSyBLk-dzQ/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=pgSyBLk-dzQ))
