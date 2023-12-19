@@ -16,4 +16,4 @@ I'm open to work opportunities. Feel free to contact me at https://www.linkedin.
 
 In the meantime, feel free to enjoy this video!
 
-[![SECRETS to FIX BROKEN code](https://img.youtube.com/vi/pgSyBLk-dzQ/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=pgSyBLk-dzQ))
+[![SECRETS to FIX BROKEN code](https://img.youtube.com/vi/pgSyBLk-dzQ/0.jpg)](https://www.youtube.com/watch?v=pgSyBLk-dzQ)
