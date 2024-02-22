@@ -1,8 +1,10 @@
 Howdy!
 
+I am a technical content engineer at Cockroach Labs and LOVE helping people build bigger and better systems!
+
 I worked on the Spring team for over 13 years as the lead for Spring Data JPA and Spring Web Services.
 
-I've built mission critical system and battled midnight failures. I've released software used by millions aroubd the world.
+I've built mission critical system and battled midnight failures. I've released software used by millions around the world.
 
 * When I'm not slinging code as a test-bitten script junky, I'm probably shooting another [YouTube video](https://youtube.com/@ProCoderIO). 
 
