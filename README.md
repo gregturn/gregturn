@@ -5,7 +5,7 @@ Howdy!
 
 I am a technical content engineer at Cockroach Labs and LOVE helping people build bigger and better systems! I also worked on the Spring team for over 13 years and was the lead for Spring Data JPA and Spring Web Services. I've built mission critical systems and battled midnight failures. I've released software used by millions around the world.
 
-* If you want actionable advise that will accelerate your career then grab my latest book, **_12 Rules For Pro Coders_** at [12rules.io](https://12rules.io)!
+* If you want actionable advice that will accelerate your career then grab my latest book, **_12 Rules For Pro Coders_** at [12rules.io](https://12rules.io)!
 
 * I host **_The Pro Coder Show_** on YouTube, Twitter, LinkedIn, and Rumble and help you learn more ways to become a savvy pro over at [@ProCoderIO](https://youtube.com/@ProCoderIO).
 
