@@ -14,8 +14,6 @@ I've built mission critical system and battled midnight failures. I've released 
 
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
-I'm open to work opportunities. Feel free to contact me at https://www.linkedin.com/in/greg-l-turnquist. 
-
-In the meantime, feel free to enjoy this video!
+In the meantime, enjoy this video!
 
 [![If you want to be a PRO CODER in 2024, then do this…](https://img.youtube.com/vi/wh9d8du_fW0/0.jpg)](https://www.youtube.com/watch?v=wh9d8du_fW0)
