@@ -1,19 +1,15 @@
 Howdy!
 
-I am a technical content engineer at Cockroach Labs and LOVE helping people build bigger and better systems!
+I am a technical content engineer at Cockroach Labs and LOVE helping people build bigger and better systems! I also worked on the Spring team for over 13 years and was the lead for Spring Data JPA and Spring Web Services. I've built mission critical system and battled midnight failures. I've released software used by millions around the world.
 
-I worked on the Spring team for over 13 years as the lead for Spring Data JPA and Spring Web Services.
+* If you want actionable advise that will accelerate your career then grab my latest book, **_12 Rules For Pro Coders_** at [12rules.io](https://12rules.io)!
 
-I've built mission critical system and battled midnight failures. I've released software used by millions around the world.
+* I host **_The Pro Coder Show_** on YouTube, Twitter, LinkedIn, and Rumble and help you learn more ways to become a savvy pro over at [@ProCoderIO](https://youtube.com/@ProCoderIO).
 
-* Grab my latest book, _12 Rules For Pro Coders_, while its still on pre-sale at [12rules.io](https://12rules.io)!
-
-* When I'm not slinging code as a test-bitten script junky, I'm probably shooting another [YouTube video](https://youtube.com/@ProCoderIO). 
-
-* I've written several best-selling software books including [Learning Spring Boot 3.0 3rd Edition](https://springbootlearning.com/book) and [Hacking with Spring Boot 2.3: Reactive Edition](https://www.amazon.com/dp/B086722L4L).
+* I've written several best-selling software books including **_Learning Spring Boot 3.0 3rd Edition_**, **_Hacking with Spring Boot 2.3: Reactive Edition_**, and several others.
 
 * Feel free to chat with me on Twitter [@gregturn](https://twitter.com/gregturn).
 
-In the meantime, enjoy this video!
+In the meantime, check out this video, chockful of useful tips to grow your skills!
 
 [![If you want to be a PRO CODER in 2024, then do this…](https://img.youtube.com/vi/wh9d8du_fW0/0.jpg)](https://www.youtube.com/watch?v=wh9d8du_fW0)
